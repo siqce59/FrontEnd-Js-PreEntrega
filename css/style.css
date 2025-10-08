@@ -41,6 +41,8 @@ body {
 .header__logo a {
   color: #e99527;
   text-decoration: none;
+  padding: 1rem;
+  box-shadow: 4px 8px 8px hsl(0deg 0% 0% / 0.38);
 }
 
 .header__nav {
@@ -141,6 +143,7 @@ main .parrafo-home {
   padding: 1rem;
   border-radius: 1rem;
   width: 30rem;
+  box-shadow: 4px 8px 8px hsl(0deg 0% 0% / 0.38);
 
   /* hacemos flexibles los elementos del article */
   /* los colocamos en columna y centrados */
