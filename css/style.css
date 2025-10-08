@@ -42,6 +42,7 @@ body {
   color: #e99527;
   text-decoration: none;
   padding: 1rem;
+  border-radius: 1rem;
   box-shadow: 4px 8px 8px hsl(0deg 0% 0% / 0.38);
 }
 
