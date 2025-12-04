@@ -1,7 +1,7 @@
 [
   {"id":"1","nombre": "Corderito", "img": "img/corderito.PNG", "precio": 1500, "descripcion": "Tela de Corderito" },
-  {"id":"2","nombre": "Micro Peluche", "img": "img/micropeluche.png", "precio": 2000, "descripcion": "Micro Peluche Suave" },
-  {"id":"3","nombre": "Peluche", "img": "img/peluche.png", "precio": 3500, "descripcion": "Peluche Clasico" },
-  {"id":"4","nombre": "Peluche Fantasía", "img": "img/peluchefantasia.png", "precio": 2550, "descripcion": "Peluche con Diseños Fantasía" },
-  {"id":"5","nombre": "Piel", "img": "img/piel.png", "precio": 4315, "descripcion": "Peluche imitacion piel" }
+  {"id":"2","nombre": "Micro Peluche", "img": "img/micropeluche.PNG", "precio": 2000, "descripcion": "Micro Peluche Suave" },
+  {"id":"3","nombre": "Peluche", "img": "img/peluche.PNG", "precio": 3500, "descripcion": "Peluche Clasico" },
+  {"id":"4","nombre": "Peluche Fantasía", "img": "img/peluchefantasia.PNG", "precio": 2550, "descripcion": "Peluche con Diseños Fantasía" },
+  {"id":"5","nombre": "Piel", "img": "img/piel.PNG", "precio": 4315, "descripcion": "Peluche imitacion piel" }
 ]
