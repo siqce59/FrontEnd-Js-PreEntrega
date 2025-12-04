@@ -170,6 +170,30 @@ main .parrafo-home {
   border-radius: 0.6rem;
 }
 
+.tarjeta-producto button {  
+  background-color: #a0a136;
+  color: #121213;
+  border: none;
+  padding: 1rem;
+  font-size: 2rem;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+.acciones-carrito {
+  display: flex;
+  gap: 1rem;
+}
+.btn-vaciar-carrito{
+  background-color: #f10808;
+  color: #e5e6e8;
+  border: none;
+  padding: 1rem;
+  font-size: 2rem;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
 /* -------------------------------------------------------------------------- */
 /*                                  Contacto                                  */
 /* -------------------------------------------------------------------------- */
